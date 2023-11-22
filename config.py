@@ -5,7 +5,7 @@ API_ID = int(getenv("API_ID", "26850449"))
 API_HASH = getenv("API_HASH", "72a730c380e68095a8549ad7341b0608")
 BOT_USERNAME = getenv("BOT_USERNAME", "CelestiaXBot")
 COMMAND_HANDLER = ["/", "!"]
-BOT_TOKEN = getenv("BOT_TOKEN", "6711389550:AAHYtV97shWhg7UrtjTGWqDru6bH812aBtk")
+BOT_TOKEN = getenv("BOT_TOKEN", "6881733978:AAG0vJjwxCsyKsRzW7-MIPpOprCwGCpQNM8")
 OWNER_ID = int(getenv("OWNER_ID", "6280048819"))
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "6280048819 6691393517 737932898 6610172048 2072367717").split()))
 MONGO_URL = getenv("MONGO_URL", "mongodb+srv://Celestia:Celestia@celestia.08chke4.mongodb.net/?retryWrites=true&w=majority")
